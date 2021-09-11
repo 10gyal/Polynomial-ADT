@@ -1,2 +1,2 @@
 # Polynomial-ADT
-Computation of univariant Polynomials via TreeMap implementation.
+Computation of univariant Polynomials ADT via TreeMap implementation.
